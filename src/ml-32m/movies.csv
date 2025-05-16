@@ -1,0 +1,51 @@
+movieId,title,genres
+1,The Shawshank Redemption (1994),Drama
+2,The Godfather (1972),Crime|Drama
+3,The Dark Knight (2008),Action|Crime|Drama
+4,12 Angry Men (1957),Drama
+5,Schindler's List (1993),Biography|Drama|History
+6,The Lord of the Rings: The Return of the King (2003),Action|Adventure|Drama
+7,Pulp Fiction (1994),Crime|Drama
+8,The Good, the Bad and the Ugly (1966),Western
+9,Fight Club (1999),Drama
+10,Forrest Gump (1994),Drama|Romance
+11,Inception (2010),Action|Adventure|Sci-Fi
+12,The Matrix (1999),Action|Sci-Fi
+13,Goodfellas (1990),Biography|Crime|Drama
+14,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Fantasy
+15,One Flew Over the Cuckoo's Nest (1975),Drama
+16,Interstellar (2014),Adventure|Drama|Sci-Fi
+17,City of God (2002),Crime|Drama
+18,Spirited Away (2001),Animation|Adventure|Family
+19,The Green Mile (1999),Crime|Drama|Fantasy
+20,Parasite (2019),Comedy|Drama|Thriller
+21,Life Is Beautiful (1997),Comedy|Drama|Romance
+22,Se7en (1995),Crime|Drama|Mystery
+23,The Silence of the Lambs (1991),Crime|Drama|Thriller
+24,The Usual Suspects (1995),Crime|Mystery|Thriller
+25,Leon: The Professional (1994),Action|Crime|Drama
+26,Harakiri (1962),Action|Drama|Mystery
+27,The Lion King (1994),Animation|Adventure|Drama
+28,The Pianist (2002),Biography|Drama|Music
+29,Terminator 2: Judgment Day (1991),Action|Sci-Fi
+30,Back to the Future (1985),Adventure|Comedy|Sci-Fi
+31,Whiplash (2014),Drama|Music
+32,Gladiator (2000),Action|Adventure|Drama
+33,Memento (2000),Mystery|Thriller
+34,The Departed (2006),Crime|Drama|Thriller
+35,Alien (1979),Horror|Sci-Fi
+36,Apocalypse Now (1979),Drama|War
+37,Sunset Blvd. (1950),Drama|Film-Noir
+38,Dr. Strangelove (1964),Comedy|War
+39,Oldboy (2003),Action|Drama|Mystery
+40,Django Unchained (2012),Drama|Western
+41,WALL·E (2008),Animation|Adventure|Family
+42,The Shining (1980),Drama|Horror
+43,American Beauty (1999),Drama
+44,Toy Story (1995),Animation|Adventure|Comedy
+45,Up (2009),Animation|Adventure|Comedy
+46,Braveheart (1995),Biography|Drama|History
+47,Reservoir Dogs (1992),Crime|Drama|Thriller
+48,Requiem for a Dream (2000),Drama
+49,Amélie (2001),Comedy|Romance
+50,A Beautiful Mind (2001),Biography|Drama
