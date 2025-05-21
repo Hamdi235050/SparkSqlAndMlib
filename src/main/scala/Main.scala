@@ -27,7 +27,7 @@ object Main {
 
     val Array(training, test) = ratings.randomSplit(Array(0.8, 0.2), seed = 42)
 
-    val targetUserId =  3
+    val targetUserId =  1
 
     println(s"📈 Entraînement du modèle ALS pour l'utilisateur $targetUserId...")
 
@@ -71,9 +71,13 @@ object Main {
       .select("title", "prediction")
 
     println(s"\n🎬 Top 10 recommandations pour l'utilisateur $targetUserId :")
-    topMovies.show(false)
+    topMovies.show(true)
+    println(s"Nombre total de films : ${movies.count()}")
+    println(s"Nombre total de notes : ${ratings.count()}")
+    println(s"Nombre de films vus par l'utilisateur $targetUserId : ${ratedMovieIds.count()}")
+    println(s"Nombre de films non vus : ${userUnseenMovies.count()}")
 
-    
+
 
     println("✅ Processus terminé avec succès.")
     spark.stop()
